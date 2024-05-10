@@ -1,8 +1,8 @@
 # Speckle.Revit.Api
 Utility repo to create the Speckle.Revit.Api package
 
-# Prerequists
-You must have Revit installed for the year that you are trying to make nugets for.
+# Prerequisites
+You must the version of Revit installed for which you are trying to release the API dlls as a nuget.
 
 # How to use
 - In your terminal of choice, navigate to the cloned repo root
